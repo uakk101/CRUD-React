@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+
+For tailwind css use 
+
+## npm install -D tailwindcss postcss autoprefixer
+## npx tailwindcss init -p
+## For adding router in the react application we can use yarn add react-router-dom@6 for version 6
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
